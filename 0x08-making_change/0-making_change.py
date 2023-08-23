@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Interview Question on: fewest number of coins needed to
-meet a given amount total
+Fewest number of coins needed to
+meet a given amount total..
 """
 
 
